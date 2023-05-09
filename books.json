@@ -1,0 +1,86 @@
+[
+  {
+  
+    "title": "Harry Potter and the Half-Blood Prince (Harry Potter  #6)",
+    "author": "J.K. Rowling/Mary GrandPré",
+    "isbn": 439785960,
+    "available": 30,
+    "published_date": "9/16/2006",
+    "category": "Fiction"
+
+  },
+  {
+
+    "title": "Harry Potter and the Order of the Phoenix (Harry Potter  #5)",
+    "author": "J.K. Rowling/Mary GrandPré",
+
+    "isbn": 439358078,
+    "available": 30,
+    "published_date": "09/01/2004",
+    "category": "Fiction"
+
+  },
+  {
+
+    "title": "Harry Potter and the Chamber of Secrets (Harry Potter  #2)",
+    "author": "J.K. Rowling",
+    
+    "isbn": 439554896,
+    "available": 30,
+
+    "published_date": "11/01/2003",
+    "category": "Fiction"
+
+ 
+  },
+  {
+
+    "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter  #3)",
+    "author": "J.K. Rowling/Mary GrandPré",
+
+    "isbn":123 ,
+    "available": 30,
+
+    "category": "Horror",
+
+ 
+    "published_date": "05/01/2004"
+
+  },
+  {
+
+    "title": "Harry Potter Boxed Set  Books 1-5 (Harry Potter  #1-5)",
+    "author": "J.K. Rowling/Mary GrandPré",
+
+    "isbn": 439682584,
+    "available": 30,
+    "category": "Nobel",
+    "published_date": "9/13/2004"
+  
+
+  },
+  {
+
+    "title": "Database System Concepts",
+    "author": "J.K. Rowling/Mary GrandPré",
+
+    "isbn": 909898,
+    "available": 30,
+    "category": "Education",
+    "published_date": "9/13/2004"
+  
+
+  },
+  {
+
+    "title": "Software Engineering",
+    "author": "Ramesh/Shah",
+
+    "isbn": 7878709898,
+    "available": 30,
+    "category": "Education",
+    "published_date": "9/13/2004"
+  
+
+  }
+]
